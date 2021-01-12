@@ -1,0 +1,9 @@
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const SORT_BY_ORDER = "SORT_BY_ORDER";
+export const SORT_BY_TYPE = "SORT_BY_TYPE";
+export const CREATE_ORDER = "CREATE_ORDER";
+export const CLEAN_ORDER = "CLEAN_ORDER";
+export const GET_ADMIN_ORDERS = "GET_ADMIN_ORDERS";
+export const GET_CLIENT_ID = "GET_CLIENT_ID";
